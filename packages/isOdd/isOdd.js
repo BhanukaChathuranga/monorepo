@@ -2,6 +2,6 @@
 
 module.exports = isOdd;
 
-function isOdd() {
-  return 'Hello from isOdd';
+function isOdd(number) {
+  return number % 2 === 1;
 }
