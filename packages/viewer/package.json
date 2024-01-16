@@ -1,13 +1,13 @@
 {
   "name": "@vh/viewer",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "viewer.js",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@vh/iseven": "1.0.0",
-    "@vh/isodd": "1.0.0"
+    "@vh/iseven": "^1.1.0",
+    "@vh/isodd": "^1.1.0"
   },
   "scripts": {
     "dev": "node viewer.js"
