@@ -1,6 +1,6 @@
 {
   "name": "@vh/iseven",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "main": "isEven.js",
   "publishConfig": {
     "access": "public"
