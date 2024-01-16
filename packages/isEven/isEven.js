@@ -1,7 +1,7 @@
 'use strict';
-
+const isOdd = require('@vh/isodd');
 module.exports = isEven;
 
-function isEven() {
-  return 'Hello from isEven';
+function isEven(number) {
+  return !isOdd(number);
 }

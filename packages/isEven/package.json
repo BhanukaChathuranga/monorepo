@@ -5,6 +5,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "dependencies": {
+    "@vh/isodd": "^1.1.1"
+  },
   "scripts": {
     "test": "node ./__tests__/@vh/isEven.test.js"
   }
