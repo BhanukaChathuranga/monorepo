@@ -1,0 +1,11 @@
+{
+  "name": "@vh/iseven",
+  "version": "1.0.0",
+  "main": "isEven.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "node ./__tests__/@vh/isEven.test.js"
+  }
+}
